@@ -1,0 +1,8 @@
+Fonts: Source Sans Pro from Google Fonts.
+
+Folder Structure: Balanced between Nested and Flat.
+
+Components Rationale: All files in components folder are used in multiple locations, otherwise what's the point?
+
+
+
